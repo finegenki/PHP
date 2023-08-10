@@ -1,0 +1,33 @@
+* {
+    font-family: serif;
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px 0px 0px 0px;
+}
+
+hr {    
+    border: none;
+    border-top: 3px solid aliceblue;
+    margin-bottom: 50px;
+}
+
+.namebox {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    color: black;  
+}
+
+.btn {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+}
+
+.initial {
+    margin-top: 50px;
+}
